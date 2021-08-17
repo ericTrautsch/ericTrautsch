@@ -1,4 +1,4 @@
-hi, i'm eric trautsch. 
+hi, i'm ericTrautsch. 
 
 I'm interested in AI, particularly using machine learning and optimization in manufacturing and intelligence domains. Fan of disc golf and long-hikes.
 

@@ -1,6 +1,6 @@
 hi, i'm ericTrautsch. 
 
-I'm interested in AI, particularly using machine learning and optimization in manufacturing and intelligence domains. Fan of disc golf and long-hikes.
+I'm interested in AI/ML, particularly how to make use of ML and AI practically and at scale in production. Fan of mountain biking and fall weather.
 
 
 <!---

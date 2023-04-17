@@ -1,4 +1,4 @@
-hi, i'm ericTrautsch. 
+hi, i'm eric trautsch. 
 
 I'm interested in AI/ML, particularly how to make use of ML and AI practically and at scale in production. Fan of mountain biking and fall weather.
 

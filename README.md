@@ -1,6 +1,6 @@
-hi, i'm eric trautsch. 
+hi, i'm ET. 
 
-I'm interested in AI/ML, particularly how to make use of ML and AI practically and at scale in production. Fan of mountain biking and fall weather.
+I'm interested in AI/ML, particularly how to make use of ML and AI practically and at scale in production. Also interested in all things k8s & embracing the dev-ops mindset. Fan of mountain biking and fall weather.
 
 
 <!---
